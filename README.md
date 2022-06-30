@@ -1,3 +1,4 @@
+This application prompts the user for coefficients to a quadratic equation, then plots the equation on a graph.
 The app has many bugs, but is a basic demonstration of a few hours work, with a new charts library I have never used before.
 
 To run this application
